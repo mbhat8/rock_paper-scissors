@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    flex-direction: column;
+}
+h2{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
